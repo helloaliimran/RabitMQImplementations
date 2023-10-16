@@ -23,10 +23,10 @@
 <p>
  <img align="right" width="350" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" alt="Coding gif" />
   
- ✌️ &emsp; Message Queue <br/><br/>
- ❤️ &emsp; Exchanges : Direct, Fanout, Topic, Headers<br/><br/>
- 📧 &emsp; Binding, Route Key<br/><br/>
- 💬 &emsp; RabitMQ Retry
+- ➡️ 🚀 &emsp; Message Queue <br/><br/>
+- ➡️ 🚀 &emsp; Exchanges : Direct, Fanout, Topic, Headers<br/><br/>
+- ➡️ 🚀 &emsp; Binding, Route Key<br/><br/>
+- ➡️ 🚀 &emsp; RabitMQ Retry
 
 </p>
 
